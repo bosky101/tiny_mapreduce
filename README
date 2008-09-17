@@ -1,0 +1,8 @@
+%%%------------------------------------------------------------------------
+%%% Simple erlang implementation of map/reduce 
+%%% (that accepts user defined Functions ) .
+%%% Currently without concurrency or distribution or benchmarks
+%%%
+%%%
+%%% -b101
+%%%------------------------------------------------------------------------
